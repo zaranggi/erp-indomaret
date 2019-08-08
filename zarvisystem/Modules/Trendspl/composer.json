@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/trendspl",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Trendspl\\Providers\\TrendsplServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Trendspl\\": ""
+        }
+    }
+}

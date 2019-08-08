@@ -1,0 +1,14 @@
+{
+    "name": "Spl",
+    "alias": "spl",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Spl\\Providers\\SplServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

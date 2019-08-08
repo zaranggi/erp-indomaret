@@ -1,0 +1,14 @@
+{
+    "name": "Listpdo",
+    "alias": "listpdo",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Listpdo\\Providers\\ListpdoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

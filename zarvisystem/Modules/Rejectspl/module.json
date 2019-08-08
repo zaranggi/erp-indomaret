@@ -1,0 +1,14 @@
+{
+    "name": "Rejectspl",
+    "alias": "rejectspl",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Rejectspl\\Providers\\RejectsplServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

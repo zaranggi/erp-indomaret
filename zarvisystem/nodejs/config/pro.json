@@ -1,0 +1,9 @@
+{
+    "dbConfig": {
+        "host": "192.168.24.222",
+        "port": 3306,
+        "user": "donny",
+        "password": "n3wbi327m3d",
+        "database": "hrd"
+    }
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/sysman/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/sysman/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/sysman/Modules" isTestSource="false" packagePrefix="Modules\" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/artem-schander/l5-modular" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/barryvdh/laravel-debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/intervention/image" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/ixudra/curl" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/laravelcollective/html" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/maatwebsite/excel" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/maximebf/debugbar" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/nexmo/client" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/paragonie/sodium_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/php-http/guzzle6-adapter" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/php-http/httplug" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/php-http/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/pusher/pusher-php-server" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/webklex/laravel-imap" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/yajra/laravel-datatables-oracle" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/zalazdi/laravel-imap" />
+      <excludeFolder url="file://$MODULE_DIR$/sysman/vendor/zendframework/zend-diactoros" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jquery.maskMoney" level="application" />
+  </component>
+</module>

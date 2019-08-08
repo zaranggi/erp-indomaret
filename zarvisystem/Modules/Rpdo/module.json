@@ -1,0 +1,14 @@
+{
+    "name": "Rpdo",
+    "alias": "rpdo",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Rpdo\\Providers\\RpdoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

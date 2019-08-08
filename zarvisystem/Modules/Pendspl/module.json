@@ -1,0 +1,14 @@
+{
+    "name": "Pendspl",
+    "alias": "pendspl",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Pendspl\\Providers\\PendsplServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Cv",
+    "alias": "cv",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Cv\\Providers\\CvServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

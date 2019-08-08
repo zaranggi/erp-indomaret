@@ -1,0 +1,14 @@
+{
+    "name": "Pdopr",
+    "alias": "pdopr",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Pdopr\\Providers\\PdoprServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

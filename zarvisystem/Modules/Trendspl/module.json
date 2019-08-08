@@ -1,0 +1,14 @@
+{
+    "name": "Trendspl",
+    "alias": "trendspl",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Trendspl\\Providers\\TrendsplServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

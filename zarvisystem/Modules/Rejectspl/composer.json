@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/rejectspl",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Rejectspl\\Providers\\RejectsplServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Rejectspl\\": ""
+        }
+    }
+}
